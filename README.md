@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" alt="Abdul Azeez Shaik" src="https://raw.githubusercontent.com/azeez-1904/azeez-1904/main/assets/hero.svg" />
+  <img width="100%" alt=Sanad Abujaber" src="" />
 </p>
 
 <p align="center">
