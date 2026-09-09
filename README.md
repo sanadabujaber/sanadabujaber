@@ -1,76 +1,48 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1e2327&height=220&section=header&text=Sanad%20Abu%20Jaber&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20CEO%20@%20AstraCore%20Technologies&descAlignY=55&descSize=18" width="100%"/>
-
-<a href="https://sanadjaber.blog">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+%26+AI+Engineer;Founder+%40+AstraCore+Technologies;SAP+Consultant+%40+JEPCO;Building+products+that+scale;Always+learning%2C+always+shipping&font=Fira+Code&center=true&width=600&height=45&color=0A66C2&vCenter=true&size=22&pause=1200"/>
-</a>
-
-<p>
-  <a href="https://sanadjaber.blog"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="mailto:sanadabujaber7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sanad-abujaber"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://linktr.ee/sanad.sanad"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+<p align="center">
+  <img width="100%" alt="Sanad Abu Jaber" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,55:4d2676,100:0c0a10&height=200&section=header&text=Sanad%20Abu%20Jaber&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20CEO%20@%20AstraCore%20Technologies&descAlignY=55&descSize=17" />
 </p>
 
-</div>
+<p align="center">
+  <a href="https://sanadjaber.com"><img src="https://img.shields.io/badge/Portfolio-0c0a10?style=for-the-badge&logo=googlechrome&logoColor=c9a2ff" /></a>
+  <a href="https://www.linkedin.com/in/sanad-abujaber"><img src="https://img.shields.io/badge/LinkedIn-0c0a10?style=for-the-badge&logo=linkedin&logoColor=c9a2ff" /></a>
+  <a href="mailto:sanadabujaber75@gmail.com"><img src="https://img.shields.io/badge/Email-0c0a10?style=for-the-badge&logo=gmail&logoColor=c9a2ff" /></a>
+  <a href="https://github.com/sanadabujaber"><img src="https://img.shields.io/badge/GitHub-0c0a10?style=for-the-badge&logo=github&logoColor=c9a2ff" /></a>
+  <a href="https://linktr.ee/sanad.sanad"><img src="https://img.shields.io/badge/Linktree-0c0a10?style=for-the-badge&logo=linktree&logoColor=c9a2ff" /></a>
+</p>
 
----
+### Currently
 
-### 🚀 About Me
+**Founder & CEO, [AstraCore Technologies](https://sanadjaber.com).** Full-stack, AI engineering, and UI/UX product studio based in Amman, Jordan — building a multi-tenant B2B SaaS ERP/CRM platform for growing companies.
 
-I'm the **Founder & CEO of AstraCore Technologies**, based in Amman, Jordan — building products across full-stack development, AI engineering, UI/UX design, and digital product strategy. Alongside AstraCore, I work as an **SAP Basis Administrator at JEPCO** (Jordan Electric Power Company), giving me a hands-on view of enterprise systems most product-focused developers never touch.
+**Software Engineer, JEPCO (Jordan Electric Power Company).** Building an AI-powered e-services portal — Next.js frontend, .NET microservices backend — after starting there as an SAP ERP System Intern.
+
+**Product & Design, Luminara Health.** UI/UX redesign of a wellness app built on Expo / React Native.
+
+### Background
 
 - 🎓 B.Sc. in Computer Science, Al Hussein Technical University (2025)
-- 🏢 Building a multi-tenant B2B SaaS ERP/CRM platform at AstraCore
-- ⚡ Working on JEPCO's AI-powered e-services portal (Next.js + .NET microservices)
-- 🧠 Focused on AI product engineering, digital transformation, and enterprise UX
+- 🧠 Fine-tuned and self-hosted a local AI model on a physical Linux server I built and configured myself
+- 🏆 Certifications: Figma Mockup Design, Ahli Fintech Hackathon, DevOps Intro, Google Gemini Certified Educator
 - 📫 Reach me: **sanadabujaber75@gmail.com**
 
----
+### Stack
 
-### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,dotnet,nodejs,expo&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,tailwind,git,html,css&theme=dark" />
+</p>
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,dotnet,nodejs,figma,tailwind,git,html,css,expo&theme=dark" />
-</div>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sanadabujaber&hide_border=true&include_all_commits=true&count_private=true&bg_color=0c0a10&title_color=c9a2ff&text_color=8e8699&icon_color=a855f7" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanadabujaber&hide_border=true&layout=compact&langs_count=6&bg_color=0c0a10&title_color=c9a2ff&text_color=8e8699" />
+</p>
 
----
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanadabujaber/sanadabujaber/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanadabujaber/sanadabujaber/output/snake-light.svg" />
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/sanadabujaber/sanadabujaber/output/snake-dark.svg" />
+</picture>
+</p>
 
-### 💼 What I'm Building
-
-| Project | Description |
-|---|---|
-| 🏢 **AstraCore Business OS** | Multi-tenant B2B SaaS ERP/CRM built for growing companies |
-| ⚡ **JEPCO E-Services Portal** | AI-powered public utility portal — Next.js frontend, .NET microservices backend |
-| 🌿 **Luminara Health** | Wellness app redesign — Expo / React Native |
-| 🌐 **Personal Brand Platform** | Multi-agent AI-powered portfolio at sanadjaber.com |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanadabujaber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanadabujaber&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=sanadabujaber&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/sanadabujaber/sanadabujaber/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-> This animates automatically from your real commit history once the GitHub Action below is set up (first run may take a few minutes to generate).
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:0A66C2&height=100&section=footer"/>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,55:4d2676,100:0c0a10&height=90&section=footer" />
